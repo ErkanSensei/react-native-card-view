@@ -77,7 +77,7 @@ class Separator extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 0.2,
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
     margin: 5
